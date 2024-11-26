@@ -27,7 +27,7 @@ The project is built using HTML, CSS, and JavaScript, with a focus on simplicity
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/basic-web-service.git
+   git clone https://github.com/Aamir0202/Web_Service.git
    cd basic-web-service
    ```
 
@@ -61,5 +61,4 @@ Contributions are welcome! If you’d like to contribute, fork the repository an
 
 ## Author
 
-**Your Name**  
 Aamir(CS-21029)
