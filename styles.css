@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(120deg, #f6d365, #fda085);
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 400px;
+    text-align: center;
+    width: 90%;
+  }
+  
+  h1 {
+    color: #f77f00;
+    margin-bottom: 20px;
+  }
+  
+  .service {
+    margin-bottom: 20px;
+  }
+  
+  .service h2 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .service input[type="number"] {
+    width: calc(100% - 20px);
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .service button {
+    width: 100%;
+    background-color: #f77f00;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+  }
+  
+  .service button:hover {
+    background-color: #d96000;
+  }
+  
+  .result {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #555;
+  }
+  
