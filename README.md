@@ -28,7 +28,7 @@ The project is built using HTML, CSS, and JavaScript, with a focus on simplicity
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Aamir0202/Web_Service.git
-   cd basic-web-service
+   cd Web_Service
    ```
 
 2. **Open in Browser**  
